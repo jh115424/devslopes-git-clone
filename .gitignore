@@ -2,3 +2,5 @@
 .env*
 
 app.js
+
+.vscode
